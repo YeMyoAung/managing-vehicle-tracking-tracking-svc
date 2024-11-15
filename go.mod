@@ -7,7 +7,7 @@ require (
 	github.com/goccy/go-json v0.10.3
 	github.com/rabbitmq/amqp091-go v1.10.0
 	github.com/yemyoaung/managing-vehicle-tracking-common v0.0.0-20241115082421-5b8e9da89503
-	github.com/yemyoaung/managing-vehicle-tracking-models v0.0.0-20241115042939-664a1ea3f7e0
+	github.com/yemyoaung/managing-vehicle-tracking-models v0.0.0-20241115084429-f376a7a606d4
 	go.mongodb.org/mongo-driver v1.17.1
 )
 
