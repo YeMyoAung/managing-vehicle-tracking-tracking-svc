@@ -5,6 +5,6 @@ build:
 	@go mod tidy && go build -o bin/tracking-svc
 
 test:
-	@go test -v -cover -race ./...
+	@go mod tidy && go test -v -cover -race ./...
 
 .PHONY: run build test
