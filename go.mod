@@ -6,7 +6,7 @@ require (
 	github.com/go-playground/validator/v10 v10.22.1
 	github.com/goccy/go-json v0.10.3
 	github.com/rabbitmq/amqp091-go v1.10.0
-	github.com/yemyoaung/managing-vehicle-tracking-common v0.0.0-20241115082421-5b8e9da89503
+	github.com/yemyoaung/managing-vehicle-tracking-common v0.0.0-20241116032255-9a22cba87b83
 	github.com/yemyoaung/managing-vehicle-tracking-models v0.0.0-20241115084429-f376a7a606d4
 	go.mongodb.org/mongo-driver v1.17.1
 )
